@@ -22,7 +22,7 @@
 ### **🔹 Programming & Data**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,java,c++" width="60" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,java,c++" width="99" style="margin-right:10px;" />
 </p>
 
 ### **🔹 Data Analysis & ML**
