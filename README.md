@@ -28,9 +28,12 @@
 ### 🔹 Data Analysis & ML
 
 <p align="left">
-  
-(https://skillicons.dev/icons?i=python,numpy,matplotlib,scipy,seaborn,scikitlearn&perline=6)](https://skillicons.dev)
-(https://img.shields.io/badge/pandas-%23015058?style=flat-square&logo=pandas&logoColor=white)
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right:5px;" />
+  <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="margin-right:5px;" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="margin-right:5px;" />
+  <img src="https://img.shields.io/badge/Matplotlib-Ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" style="margin-right:5px;" />
+  <img src="https://img.shields.io/badge/seaborn-4A81D9?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" style="margin-right:5px;" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-right:5px;" />
 </p>
 
 
