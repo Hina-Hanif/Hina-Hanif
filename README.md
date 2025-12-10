@@ -22,25 +22,25 @@
 ### **🔹 Programming & Data**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,java,c++" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,java,c++" style="margin-right:20px;" />
 </p>
 
 ### **🔹 Data Analysis & ML**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,seaborn" width="60" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,seaborn" style="margin-right:20px;" />
 </p>
 
 ### **🔹 Frontend Development**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" width="60" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" style="margin-right:20px;" />
 </p>
 
 ### **🔹 Tools & Platforms**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" width="60" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" style="margin-right:20px;" />
 </p>
 
 
