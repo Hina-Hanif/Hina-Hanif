@@ -1,46 +1,87 @@
-👋 Hi there, I'm Hina Hanif!
 
-Software Engineering Student | Python | Frontend Developer | AI Enthusiast | C++ | Java
+# 🌟 **Hi, I'm Hina!**
 
-🎓 About Me
+### *Aspiring Software Engineer | Python & ML Enthusiast | Hackathon  & International Coding Competition Participant*
 
-I'm a passionate Software Engineering student currently pursuing my Bachelors degree. My journey in tech is driven by a strong curiosity for how technology can solve real-world problems and create impactful solutions. I'm constantly exploring new concepts and eager to learn and grow in the ever-evolving world of software development.
+---
 
-🛠️ Skills & Technologies
+## 🚀 **About Me**
 
-Here are some of the areas and technologies I'm currently focusing on:
+* 🐍 Strong foundation in **Python** and hands-on **EDA (Exploratory Data Analysis)**
+* 🌐 Completed **Frontend Development** (HTML, CSS, JavaScript)
+* 🤖 Currently learning **Machine Learning** and building ML-based projects
+* 💡 Worked on multiple real-world projects involving data, UI, and automation
+* 🏆 Participated in **2 coding competitions** and **won at the national level**
+* ⚡ Actively involved in **hackathons** and collaborative coding events
+* 🎯 Passionate about problem-solving, logic-building, and continuous learning
 
-Python
+---
 
-Frontend Development
+## 🛠️ **Tech Stack**
 
-Artificial Intelligence (AI)
+### **🔹 Programming & Data**
 
-🏆 Certifications
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pycharm,vscode" />
+</p>
 
-I believe in continuous learning and have been working on enhancing my skills through various certifications. This section will be updated with my achievements as I earn them!
+### **🔹 Data Analysis & ML**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pandas,numpy" />
+</p>
+
+### **🔹 Frontend Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### **🔹 Tools & Platforms**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
+</p>
+
+---
+
+## 🏆 **Achievements**
+
+* 🥇 **Winner** — National Hackathon
+* 🥈 **2× Coding Competition Participant** (and placed!)
+* 🚀 Completed multiple hands-on projects using Python, EDA & Frontend
+* 🎤 Worked in teams, pitched ideas, and built working prototypes
+* 🌱 Consistently improving through coding challenges & community events
+
+---
+
+## 📂 **Projects I've Worked On**
 
 
 
-[Google AI Essentials Specialization] - [Coursera] - [https://coursera.org/share/ffb32e7b21f9d0f06f543756782265e0]
+* 📊 **EDA Projects:** Data cleaning, visualization, insights extraction
+* 🌐 **Frontend Projects:** Websites, landing pages, UI prototypes, My portfolio
+* 🧰 **Scripting Projects:** Automation using Python
 
-[Crash Course on Python] - [Coursera] - [https://coursera.org/share/dc26bc4d893c5df142649f961b97cf37]
-
-[Google Prompting Essentials Specialization] - [Coursera] - [https://coursera.org/share/44ba276adba4b9e2754b4b032fb1a7af]
-
-🚀 Projects
-
-Here are some of the projects I've been working on or contributed to. Stay tuned for more!
-
-[Palette Perfect]: I work as a frontend developer in this project and here is my frontend repository link. [https://github.com/Hina-Hanif/palette-perfect]
+---
 
 
-💬 Connect with Me
-I'm always open to connecting with fellow developers, learners, and professionals. Feel free to reach out!
+## 🌐 **Connect With Me**
 
-LinkedIn: [https://www.linkedin.com/in/hina-hanif-a44755344]
+<p>
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BeM12eZxMQK6JhEVrMic7oQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://github.com/Hina-Hanif"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" /></a>
+  <a href="mailto:hinaajutt.23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
+</p>
 
-Email: [hinaajutt.23@gmail.com]
+---
+
+## 💬 **A Little Note**
+
+⭐ I’m still learning, building, experimenting, and improving every day.
+⭐ My goal is to become a strong engineer with real-world impact.
+⭐ If you like my work, feel free to follow — it motivates me!
+
+---
 
 
-Thanks for visiting my profile! Let's build something amazing together.
