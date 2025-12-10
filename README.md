@@ -25,11 +25,17 @@
   <img src="https://skillicons.dev/icons?i=python,flask,django,java,c++" style="margin-right:20px;" />
 </p>
 
-### **🔹 Data Analysis & ML**
+### 🔹 Data Analysis & ML
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,seaborn" style="margin-right:20px;" />
+  
+  <img src="https://skillicons.dev/icons?i=python,numpy&perline=2" width="60" style="margin-right:10px;" alt="python numpy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60" style="margin-right:10px;" alt="pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" style="margin-right:10px;" alt="matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Seaborn_logo.svg" width="60" style="margin-right:10px;" alt="seaborn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Scikit_learn_logo_small.svg" width="60" style="margin-right:10px;" alt="scikit‑learn" />
 </p>
+
 
 ### **🔹 Frontend Development**
 
