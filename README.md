@@ -21,8 +21,8 @@
   <a href="https://linkedin.com/in/hina-hanif">
     <img src="https://img.shields.io/badge/LinkedIn-Hina%20Hanif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1224" />
   </a>
-  <a href="mailto:hina.hanif.2308@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hina.hanif.2308-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1224" />
+  <a href="mailto:hinaajutt.23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hinaajutt.23-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1224" />
   </a>
   <a href="https://jazzy-dusk-7c649e.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6ee7f7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1224" />
@@ -40,29 +40,49 @@
 
 ## 🌟 About Me
 
-```typescript
-const hinaHanif = {
-  role: ["Frontend Developer", "Prompt Engineer", "AI/ML Engineer", "Full Stack Developer"],
-  education: "BSc Software Engineering @ University of Agriculture, Faisalabad (CGPA: 3.72/4.0)",
-  location: "Faisalabad, Pakistan 🇵🇰",
-  
-  currentlyDoing: [
-    "🎓 Section Leader @ Stanford Code in Place 2026",
-    "🏗️  Building AI-powered web applications",
-    "📚 Deepening expertise in LLMs & Prompt Engineering",
-  ],
+<div align="center">
 
-  achievements: [
-    "🏆 National Hackathon Winner",
-    "🤖 Prompt Idol Pakistan 2026 — Rank #45 (172.9/200)",
-    "🌍 UC Berkeley Coding Competition — Top 350 Globally",
-    "🎓 Stanford Code in Place Section Leader 2026",
-  ],
+I'm a passionate **Software Engineering student** at the University of Agriculture, Faisalabad *(CGPA: 3.72 / 4.0)*, building at the intersection of **beautiful design** and **intelligent technology**.
 
-  contact: "hina.hanif.2308@gmail.com",
-  motto: "Always Learning. Always Improving. 🚀"
-};
-```
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**🙋‍♀️ Who I Am**
+- 📍 Based in Faisalabad, Pakistan
+- 🎓 BSc Software Engineering · 2023–2027
+- 💌 hina.hanif.2308@gmail.com
+- 🌐 Open to remote opportunities worldwide
+
+**🔥 Currently**
+- 🎓 Section Leader @ Stanford Code in Place 2026
+- 🏗️ Building AI-powered web applications
+- 📚 Deepening expertise in LLMs & Prompt Engineering
+
+    </td>
+    <td valign="top" width="50%">
+
+**🏆 Highlights**
+- 🥇 National Hackathon **Winner**
+- 🤖 Prompt Idol Pakistan 2026 — **Rank #45** (172.9/200)
+- 🌍 UC Berkeley Coding Competition — **Top 350** Globally
+- 🎓 Stanford Code in Place **Section Leader** 2026
+- ⚡ Multiple International Hackathon Participant
+
+**💡 I Love**
+- Crafting pixel-perfect, accessible UIs
+- Merging AI intelligence with great UX
+- Learning fast and shipping faster 🚀
+
+    </td>
+  </tr>
+</table>
+
+> *"Always Learning. Always Improving."* 🚀
 
 ---
 
@@ -248,23 +268,32 @@ const hinaHanif = {
 
 ## 💼 Experience & Leadership
 
-<div align="center">
-
-```
-🎓 Stanford University — Code in Place              Section Leader          2026
-   Selected to mentor global learners in Python programming
-
-💻 Elevvo Pathways                                  Frontend Dev Intern     2025
-   HTML, CSS, JavaScript · Responsive UI · Modern web practices
-
-🐍 UXGENIE                                          Python Dev Intern       2025
-   Full-stack web app · Flask/Django · REST API design
-
-📊 Deloitte Australia (Forage)                      Tech Consulting Sim     2025
-   Cloud-based digital transformation strategies
-```
-
-</div>
+<table>
+  <tr>
+    <td width="6%" align="center">🎓</td>
+    <td width="44%"><strong>Section Leader</strong><br/><sub>Stanford University — Code in Place</sub></td>
+    <td width="35%">Selected to mentor global learners in Python programming through weekly interactive sessions</td>
+    <td width="15%" align="right"><img src="https://img.shields.io/badge/2026-6ee7f7?style=flat-square&labelColor=0d1224" /></td>
+  </tr>
+  <tr>
+    <td align="center">💻</td>
+    <td><strong>Frontend Web Development Intern</strong><br/><sub>Elevvo Pathways · Remote · 1 Month</sub></td>
+    <td>Built responsive UIs with HTML, CSS & JavaScript · Modern web practices · Industry mentorship</td>
+    <td align="right"><img src="https://img.shields.io/badge/2025-a78bfa?style=flat-square&labelColor=0d1224" /></td>
+  </tr>
+  <tr>
+    <td align="center">🐍</td>
+    <td><strong>Python Developer Intern</strong><br/><sub>UXGENIE · Remote</sub></td>
+    <td>Full-stack web app with Flask/Django · REST API design · Cross-functional team collaboration</td>
+    <td align="right"><img src="https://img.shields.io/badge/2025-a78bfa?style=flat-square&labelColor=0d1224" /></td>
+  </tr>
+  <tr>
+    <td align="center">📊</td>
+    <td><strong>Technology Consulting Simulation</strong><br/><sub>Deloitte Australia (Forage) · Virtual</sub></td>
+    <td>Cloud-based digital transformation strategies · Stakeholder communication · Consulting frameworks</td>
+    <td align="right"><img src="https://img.shields.io/badge/2025-a78bfa?style=flat-square&labelColor=0d1224" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -275,7 +304,7 @@ const hinaHanif = {
 <a href="https://linkedin.com/in/hina-hanif">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1224" />
 </a>
-<a href="mailto:hina.hanif.2308@gmail.com">
+<a href="mailto:hinaajutt.23@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1224" />
 </a>
 <a href="https://jazzy-dusk-7c649e.netlify.app/">
