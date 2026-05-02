@@ -55,7 +55,7 @@ I'm a passionate **Software Engineering student** at the University of Agricultu
 **🙋‍♀️ Who I Am**
 - 📍 Based in Faisalabad, Pakistan
 - 🎓 BSc Software Engineering · 2023–2027
-- 💌 hina.hanif.2308@gmail.com
+- 💌 hinaajutt.23@gmail.com
 - 🌐 Open to remote opportunities worldwide
 
 **🔥 Currently**
