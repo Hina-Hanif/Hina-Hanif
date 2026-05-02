@@ -307,7 +307,7 @@ I'm a passionate **Software Engineering student** at the University of Agricultu
 <a href="mailto:hinaajutt.23@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1224" />
 </a>
-<a href="https://jazzy-dusk-7c649e.netlify.app/">
+<a href="https://hina-hanif.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Explore-6ee7f7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1224" />
 </a>
 <a href="https://github.com/Hina-Hanif">
@@ -332,6 +332,6 @@ I'm a passionate **Software Engineering student** at the University of Agricultu
 
 <!-- 
   ✨ Built with passion by Hina Hanif
-  Frontend Developer · Prompt Engineer · AI/ML Engineer
+  Python Developer · Prompt Engineer · AI/ML Engineer
   Always Learning. Always Improving. 🚀
 -->
