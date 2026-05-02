@@ -24,7 +24,7 @@
   <a href="mailto:hinaajutt.23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-hinaajutt.23-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1224" />
   </a>
-  <a href="https://jazzy-dusk-7c649e.netlify.app/">
+  <a href="https://hina-hanif.netlify.app//">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6ee7f7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1224" />
   </a>
 </p>
